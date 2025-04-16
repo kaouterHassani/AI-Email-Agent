@@ -32,14 +32,14 @@ An intelligent automation tool for processing email inbox data, classifying mess
 
 ##  Installation
 # 1. Clone the repo or unzip the folder
-cd ai-email-agent
+<pre> cd ai-email-agent </pre>
 
 # 2. Create and activate a virtual environment (recommended)
-python -m venv env
-source env/bin/activate  # or `env\\Scripts\\activate` on Windows
+<pre> python -m venv env
+source env/bin/activate  </pre>
 
 # 3. Install dependencies
-pip install -r requirements.txt
+<pre> pip install -r requirements.txt </pre>
 
 # 4. Set your OpenAI API key
-export OPENAI_API_KEY=your-key-here  # or use a .env file
+<pre> export OPENAI_API_KEY=your-key-here  # or use a .env file </pre>
