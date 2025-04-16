@@ -1,0 +1,125 @@
+[
+  {
+    "uid": 28,
+    "data": {
+      "client_name": "Julien THEBAUD",
+      "client_email": "Julien.THEBAUD@armor-group.com",
+      "address": "62, rue Brancion, 75015 Paris",
+      "telephone": "+33 9 70 70 58 03",
+      "email_id": "82691",
+      "attachment_titles": [],
+      "required_skills": [],
+      "services_required": [],
+      "estimated_duration": "",
+      "deadline": "11/12/2023",
+      "category": "ticketCreation",
+      "email_uid": 28
+    }
+  },
+  {
+    "uid": 26,
+    "data": {
+      "client_name": "rofe tsahitt",
+      "client_email": "daniel@tsohar-group.com",
+      "address": "null 29 avenue hoche 75008 paris",
+      "telephone": "0549461150",
+      "email_id": "#24786",
+      "attachment_titles": [],
+      "required_skills": [
+        "VISITE TECHNIQUE",
+        "SIGNATURE"
+      ],
+      "services_required": [
+        "VISITE TECHNIQUE",
+        "SIGNATURE"
+      ],
+      "estimated_duration": "Non precis=C3=A9",
+      "deadline": "2024-01-08",
+      "category": "ticketCreation",
+      "email_uid": 26
+    }
+  },
+  {
+    "uid": 25,
+    "data": {
+      "error": "name 'null' is not defined",
+      "attachment_titles": [],
+      "category": "ticketCreation",
+      "email_uid": 25
+    }
+  },
+  {
+    "uid": 24,
+    "data": {
+      "client_name": "AVF de Vic-En-Bigorre",
+      "client_email": "Julien.THEBAUD@armor-group.com",
+      "address": "62, rue Brancion, 75015 Paris",
+      "telephone": "+33 9 70 70 58 03",
+      "email_id": "83182",
+      "attachment_titles": [],
+      "required_skills": [],
+      "services_required": [],
+      "estimated_duration": "",
+      "deadline": "08/01/2024",
+      "category": "ticketCreation",
+      "email_uid": 24
+    }
+  },
+  {
+    "uid": 23,
+    "data": {
+      "error": "name 'null' is not defined",
+      "attachment_titles": [],
+      "category": "ticketCreation",
+      "email_uid": 23
+    }
+  },
+  {
+    "uid": 22,
+    "data": {
+      "error": "name 'null' is not defined",
+      "attachment_titles": [],
+      "category": "ticketCreation",
+      "email_uid": 22
+    }
+  },
+  {
+    "uid": 32,
+    "data": {
+      "client_name": "Leila Haddad",
+      "client_email": "leila.h@apexconsult.fr",
+      "content": "Bonjour,\n\nComme convenu, veuillez trouver ci-joint les détails des paiements effectués en mars ainsi que la facture finale.\n\nMerci de confirmer réception.\n\nBien cordialement,\nLeila Haddad",
+      "attachment_titles": [
+        "March_Payment_Report_2025.pdf",
+        "Final_Invoice_March.docx"
+      ],
+      "category": "Normal",
+      "email_uid": 32
+    }
+  },
+  {
+    "uid": 31,
+    "data": {
+      "client_name": "Amine Rahmouni",
+      "client_email": "a.rahmouni@datavibe.com",
+      "content": "Veuillez trouver ci-joint le rapport d’erreur du serveur et la capture du message système. Le disque principal a cessé de fonctionner hier soir vers 22h. Merci d’intervenir dès que possible.",
+      "attachment_titles": [
+        "Server_Error_Log_April.pdf",
+        "DiskFailure_Screenshot.docx"
+      ],
+      "category": "ticketCreation",
+      "email_uid": 31
+    }
+  },
+  {
+    "uid": 33,
+    "data": {
+      "client_name": "Sarah Boulifa",
+      "client_email": "s.boulifa@loginov.com",
+      "content": "Bonjour,\n\nVous trouverez en pièce jointe notre rapport de conformité trimestriel ainsi que les remarques du comité.\n\nMerci de nous faire un retour avant la fin de semaine.\n\nCordialement,\nSarah Boulifa",
+      "attachment_titles": [],
+      "category": "Normal",
+      "email_uid": 33
+    }
+  }
+]
